@@ -64,8 +64,8 @@ public class Postest1 {
          System.out.println("|-----Daftar Menu Toko Muslimah -----|");
          System.out.println("| 1. Lihat Data Barang               |");
          System.out.println("| 2. Tambah Data Barang              |");
-         System.out.println("| 3. Hapus Data Game                 |");
-         System.out.println("| 4. Perbarui Data Game              |");
+         System.out.println("| 3. Hapus Data Barang               |");
+         System.out.println("| 4. Update Data Barang              |");
          System.out.println("| 5. Keluar                          |");
          System.out.println("|------------------------------------|");
          System.out.print("Pilihan Menu Toko : ");
