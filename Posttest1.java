@@ -31,7 +31,7 @@ class dvd{
       return harga;
    }
    public int gettanggal(){
-      return tanggal;
+      return tanggal; 
    }
    public String getNama_DVD(){
       return Nama_DVD;
