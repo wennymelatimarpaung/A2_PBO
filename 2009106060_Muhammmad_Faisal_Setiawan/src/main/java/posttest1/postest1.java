@@ -143,7 +143,7 @@ public class postest1 {
             }
             case 2 -> {
                 if (merk_mobil.isEmpty() == true){
-                    System.out.println("|   Tidak Ada Pemesanan Tiket    |");
+                    System.out.println("|           Kosong          |");
                 }else {
                     lihat();
                 }
